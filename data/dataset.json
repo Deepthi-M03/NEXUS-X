@@ -1,0 +1,1998 @@
+{
+  "meta": {
+    "generated": "2026-08-30T10:08:24.302801",
+    "seed": 42,
+    "disclaimer": "100% synthetic fictional data"
+  },
+  "people": [
+    {
+      "id": "P001",
+      "type": "PERSON",
+      "name": "Arjun Mehta",
+      "age": 28,
+      "city": "Coimbatore",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P002",
+      "type": "PERSON",
+      "name": "Sanjay Iyer",
+      "age": 38,
+      "city": "Hyderabad",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P003",
+      "type": "PERSON",
+      "name": "Priya Chatterjee",
+      "age": 35,
+      "city": "Bengaluru",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P004",
+      "type": "PERSON",
+      "name": "Aditya Gupta",
+      "age": 27,
+      "city": "Pondicherry",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P005",
+      "type": "PERSON",
+      "name": "Karan Chatterjee",
+      "age": 55,
+      "city": "Chennai",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P006",
+      "type": "PERSON",
+      "name": "Vikram Rao",
+      "age": 48,
+      "city": "Coimbatore",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P007",
+      "type": "PERSON",
+      "name": "Rohan Bose",
+      "age": 22,
+      "city": "Chennai",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P008",
+      "type": "PERSON",
+      "name": "Nikhil Rao",
+      "age": 34,
+      "city": "Hyderabad",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P009",
+      "type": "PERSON",
+      "name": "Suresh Verma",
+      "age": 53,
+      "city": "Vellore",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P010",
+      "type": "PERSON",
+      "name": "Raj Kumar",
+      "age": 22,
+      "city": "Coimbatore",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P011",
+      "type": "PERSON",
+      "name": "Priya Khan",
+      "age": 33,
+      "city": "Nagercoil",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P012",
+      "type": "PERSON",
+      "name": "Anjali Bose",
+      "age": 55,
+      "city": "Kochi",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P013",
+      "type": "PERSON",
+      "name": "Neha Kapoor",
+      "age": 35,
+      "city": "Trichy",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P014",
+      "type": "PERSON",
+      "name": "Divya Menon",
+      "age": 38,
+      "city": "Tirunelveli",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P015",
+      "type": "PERSON",
+      "name": "Pooja Sharma",
+      "age": 21,
+      "city": "Tirunelveli",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P016",
+      "type": "PERSON",
+      "name": "Kavya Singh",
+      "age": 31,
+      "city": "Nagercoil",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P017",
+      "type": "PERSON",
+      "name": "Meera Reddy",
+      "age": 48,
+      "city": "Salem",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P018",
+      "type": "PERSON",
+      "name": "Ritu Malhotra",
+      "age": 38,
+      "city": "Bengaluru",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P019",
+      "type": "PERSON",
+      "name": "Sneha Pillai",
+      "age": 34,
+      "city": "Tirunelveli",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P020",
+      "type": "PERSON",
+      "name": "Isha Joshi",
+      "age": 42,
+      "city": "Chennai",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P021",
+      "type": "PERSON",
+      "name": "Raj Mehta",
+      "age": 26,
+      "city": "Kochi",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P022",
+      "type": "PERSON",
+      "name": "Amit Kumar",
+      "age": 27,
+      "city": "Salem",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P023",
+      "type": "PERSON",
+      "name": "Vivek Nair",
+      "age": 43,
+      "city": "Vellore",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P024",
+      "type": "PERSON",
+      "name": "Deepak Gupta",
+      "age": 37,
+      "city": "Tirunelveli",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P025",
+      "type": "PERSON",
+      "name": "Ashok Chatterjee",
+      "age": 23,
+      "city": "Nagercoil",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P026",
+      "type": "PERSON",
+      "name": "Farhan Desai",
+      "age": 50,
+      "city": "Erode",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P027",
+      "type": "PERSON",
+      "name": "Imran Bhatt",
+      "age": 28,
+      "city": "Namakkal",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P028",
+      "type": "PERSON",
+      "name": "Zoya Rao",
+      "age": 45,
+      "city": "Chennai",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P029",
+      "type": "PERSON",
+      "name": "Alia Verma",
+      "age": 39,
+      "city": "Karur",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P030",
+      "type": "PERSON",
+      "name": "Sameer Iyer",
+      "age": 44,
+      "city": "Vellore",
+      "notes": "Synthetic demo identity"
+    },
+    {
+      "id": "P031",
+      "type": "PERSON",
+      "name": "R. Kumar",
+      "age": 22,
+      "city": "Coimbatore",
+      "notes": "Possible duplicate of P010"
+    },
+    {
+      "id": "P032",
+      "type": "PERSON",
+      "name": "Rajkumar R",
+      "age": 23,
+      "city": "Coimbatore",
+      "notes": "Possible duplicate of P010"
+    }
+  ],
+  "phones": [
+    {
+      "id": "PH001",
+      "type": "PHONE",
+      "number": "+91-9100000000",
+      "owner_id": "P001"
+    },
+    {
+      "id": "PH002",
+      "type": "PHONE",
+      "number": "+91-9100000137",
+      "owner_id": "P002"
+    },
+    {
+      "id": "PH003",
+      "type": "PHONE",
+      "number": "+91-9100000274",
+      "owner_id": "P003"
+    },
+    {
+      "id": "PH004",
+      "type": "PHONE",
+      "number": "+91-9100000411",
+      "owner_id": "P004"
+    },
+    {
+      "id": "PH005",
+      "type": "PHONE",
+      "number": "+91-9100000548",
+      "owner_id": "P005"
+    },
+    {
+      "id": "PH006",
+      "type": "PHONE",
+      "number": "+91-9100000685",
+      "owner_id": "P006"
+    },
+    {
+      "id": "PH007",
+      "type": "PHONE",
+      "number": "+91-9100000822",
+      "owner_id": "P007"
+    },
+    {
+      "id": "PH008",
+      "type": "PHONE",
+      "number": "+91-9100000959",
+      "owner_id": "P008"
+    },
+    {
+      "id": "PH009",
+      "type": "PHONE",
+      "number": "+91-9100001096",
+      "owner_id": "P009"
+    },
+    {
+      "id": "PH010",
+      "type": "PHONE",
+      "number": "+91-9100001233",
+      "owner_id": "P010"
+    },
+    {
+      "id": "PH011",
+      "type": "PHONE",
+      "number": "+91-9100001370",
+      "owner_id": "P011"
+    },
+    {
+      "id": "PH012",
+      "type": "PHONE",
+      "number": "+91-9100001507",
+      "owner_id": "P012"
+    },
+    {
+      "id": "PH013",
+      "type": "PHONE",
+      "number": "+91-9100001644",
+      "owner_id": "P013"
+    },
+    {
+      "id": "PH014",
+      "type": "PHONE",
+      "number": "+91-9100001781",
+      "owner_id": "P014"
+    },
+    {
+      "id": "PH015",
+      "type": "PHONE",
+      "number": "+91-9100001918",
+      "owner_id": "P015"
+    },
+    {
+      "id": "PH016",
+      "type": "PHONE",
+      "number": "+91-9100002055",
+      "owner_id": "P016"
+    },
+    {
+      "id": "PH017",
+      "type": "PHONE",
+      "number": "+91-9100002192",
+      "owner_id": "P017"
+    },
+    {
+      "id": "PH018",
+      "type": "PHONE",
+      "number": "+91-9100002329",
+      "owner_id": "P018"
+    },
+    {
+      "id": "PH019",
+      "type": "PHONE",
+      "number": "+91-9100002466",
+      "owner_id": "P019"
+    },
+    {
+      "id": "PH020",
+      "type": "PHONE",
+      "number": "+91-9100002603",
+      "owner_id": "P010"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "V001",
+      "type": "VEHICLE",
+      "plate": "TN66-BX-1000",
+      "owner_id": "P001"
+    },
+    {
+      "id": "V002",
+      "type": "VEHICLE",
+      "plate": "TN23-DZ-1001",
+      "owner_id": "P003"
+    },
+    {
+      "id": "V003",
+      "type": "VEHICLE",
+      "plate": "TN37-DX-1002",
+      "owner_id": "P005"
+    },
+    {
+      "id": "V004",
+      "type": "VEHICLE",
+      "plate": "KA05-EQ-1003",
+      "owner_id": "P007"
+    },
+    {
+      "id": "V005",
+      "type": "VEHICLE",
+      "plate": "TN23-FY-1004",
+      "owner_id": "P015"
+    },
+    {
+      "id": "V006",
+      "type": "VEHICLE",
+      "plate": "TN45-FY-1005",
+      "owner_id": "P011"
+    },
+    {
+      "id": "V007",
+      "type": "VEHICLE",
+      "plate": "TN23-EX-1006",
+      "owner_id": "P013"
+    },
+    {
+      "id": "V008",
+      "type": "VEHICLE",
+      "plate": "AP09-CR-1007",
+      "owner_id": "P015"
+    },
+    {
+      "id": "V009",
+      "type": "VEHICLE",
+      "plate": "TN23-DY-1008",
+      "owner_id": "P017"
+    },
+    {
+      "id": "V010",
+      "type": "VEHICLE",
+      "plate": "KA05-GZ-1009",
+      "owner_id": "P019"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "AC001",
+      "type": "ACCOUNT",
+      "number": "AC-9000-CANARA",
+      "holder_id": "P001"
+    },
+    {
+      "id": "AC002",
+      "type": "ACCOUNT",
+      "number": "AC-9001-HDFC",
+      "holder_id": "P002"
+    },
+    {
+      "id": "AC003",
+      "type": "ACCOUNT",
+      "number": "AC-9002-ICICI",
+      "holder_id": "P003"
+    },
+    {
+      "id": "AC004",
+      "type": "ACCOUNT",
+      "number": "AC-9003-SBI",
+      "holder_id": "P004"
+    },
+    {
+      "id": "AC005",
+      "type": "ACCOUNT",
+      "number": "AC-9004-HDFC",
+      "holder_id": "P005"
+    },
+    {
+      "id": "AC006",
+      "type": "ACCOUNT",
+      "number": "AC-9005-SBI",
+      "holder_id": "P006"
+    },
+    {
+      "id": "AC007",
+      "type": "ACCOUNT",
+      "number": "AC-9006-ICICI",
+      "holder_id": "P007"
+    },
+    {
+      "id": "AC008",
+      "type": "ACCOUNT",
+      "number": "AC-9007-PNB",
+      "holder_id": "P008"
+    },
+    {
+      "id": "AC009",
+      "type": "ACCOUNT",
+      "number": "AC-9008-ICICI",
+      "holder_id": "P009"
+    },
+    {
+      "id": "AC010",
+      "type": "ACCOUNT",
+      "number": "AC-9009-SBI",
+      "holder_id": "P010"
+    },
+    {
+      "id": "AC011",
+      "type": "ACCOUNT",
+      "number": "AC-9010-HDFC",
+      "holder_id": "P011"
+    },
+    {
+      "id": "AC012",
+      "type": "ACCOUNT",
+      "number": "AC-9011-CANARA",
+      "holder_id": "P012"
+    },
+    {
+      "id": "AC013",
+      "type": "ACCOUNT",
+      "number": "AC-9012-ICICI",
+      "holder_id": "P013"
+    },
+    {
+      "id": "AC014",
+      "type": "ACCOUNT",
+      "number": "AC-9013-HDFC",
+      "holder_id": "P014"
+    },
+    {
+      "id": "AC015",
+      "type": "ACCOUNT",
+      "number": "AC-9014-PNB",
+      "holder_id": "P015"
+    }
+  ],
+  "locations": [
+    {
+      "id": "L001",
+      "type": "LOCATION",
+      "name": "Kochi Sector-1",
+      "city": "Coimbatore"
+    },
+    {
+      "id": "L002",
+      "type": "LOCATION",
+      "name": "Namakkal Sector-2",
+      "city": "Chennai"
+    },
+    {
+      "id": "L003",
+      "type": "LOCATION",
+      "name": "Namakkal Sector-3",
+      "city": "Bengaluru"
+    },
+    {
+      "id": "L004",
+      "type": "LOCATION",
+      "name": "Pondicherry Sector-4",
+      "city": "Hyderabad"
+    },
+    {
+      "id": "L005",
+      "type": "LOCATION",
+      "name": "Trichy Sector-5",
+      "city": "Madurai"
+    },
+    {
+      "id": "L006",
+      "type": "LOCATION",
+      "name": "Bengaluru Sector-6",
+      "city": "Salem"
+    },
+    {
+      "id": "L007",
+      "type": "LOCATION",
+      "name": "Madurai Sector-7",
+      "city": "Kochi"
+    },
+    {
+      "id": "L008",
+      "type": "LOCATION",
+      "name": "Bengaluru Sector-8",
+      "city": "Trichy"
+    },
+    {
+      "id": "L009",
+      "type": "LOCATION",
+      "name": "Hyderabad Sector-9",
+      "city": "Erode"
+    },
+    {
+      "id": "L010",
+      "type": "LOCATION",
+      "name": "Nagercoil Sector-10",
+      "city": "Vellore"
+    },
+    {
+      "id": "L011",
+      "type": "LOCATION",
+      "name": "Erode Sector-11",
+      "city": "Pondicherry"
+    },
+    {
+      "id": "L012",
+      "type": "LOCATION",
+      "name": "Erode Sector-12",
+      "city": "Nagercoil"
+    },
+    {
+      "id": "L013",
+      "type": "LOCATION",
+      "name": "Madurai Sector-13",
+      "city": "Tirunelveli"
+    },
+    {
+      "id": "L014",
+      "type": "LOCATION",
+      "name": "Nagercoil Sector-14",
+      "city": "Karur"
+    },
+    {
+      "id": "L015",
+      "type": "LOCATION",
+      "name": "Vellore Sector-15",
+      "city": "Namakkal"
+    }
+  ],
+  "organizations": [
+    {
+      "id": "O001",
+      "type": "ORGANIZATION",
+      "name": "Silverline Traders Pvt Ltd"
+    },
+    {
+      "id": "O002",
+      "type": "ORGANIZATION",
+      "name": "Nightfall Logistics"
+    },
+    {
+      "id": "O003",
+      "type": "ORGANIZATION",
+      "name": "Crosslink Freight Co"
+    },
+    {
+      "id": "O004",
+      "type": "ORGANIZATION",
+      "name": "BlueHarbor Exports"
+    },
+    {
+      "id": "O005",
+      "type": "ORGANIZATION",
+      "name": "Vertex Textiles"
+    },
+    {
+      "id": "O006",
+      "type": "ORGANIZATION",
+      "name": "Coastal Shipping Agency"
+    },
+    {
+      "id": "O007",
+      "type": "ORGANIZATION",
+      "name": "Metro Finserve"
+    },
+    {
+      "id": "O008",
+      "type": "ORGANIZATION",
+      "name": "Falcon Holdings"
+    }
+  ],
+  "events": [
+    {
+      "id": "E001",
+      "type": "EVENT",
+      "description": "Informant tip",
+      "location_id": "L015",
+      "timestamp": "2026-05-30T12:23:00",
+      "entities": []
+    },
+    {
+      "id": "E002",
+      "type": "EVENT",
+      "description": "Border checkpoint log",
+      "location_id": "L003",
+      "timestamp": "2026-05-11T15:05:00",
+      "entities": []
+    },
+    {
+      "id": "E003",
+      "type": "EVENT",
+      "description": "Surveillance sighting",
+      "location_id": "L014",
+      "timestamp": "2026-01-29T04:40:00",
+      "entities": []
+    },
+    {
+      "id": "E004",
+      "type": "EVENT",
+      "description": "Border checkpoint log",
+      "location_id": "L013",
+      "timestamp": "2026-04-19T19:04:00",
+      "entities": []
+    },
+    {
+      "id": "E005",
+      "type": "EVENT",
+      "description": "Informant tip",
+      "location_id": "L007",
+      "timestamp": "2026-04-30T16:16:00",
+      "entities": []
+    },
+    {
+      "id": "E006",
+      "type": "EVENT",
+      "description": "Routine patrol stop",
+      "location_id": "L014",
+      "timestamp": "2026-01-03T21:46:00",
+      "entities": []
+    },
+    {
+      "id": "E007",
+      "type": "EVENT",
+      "description": "Surveillance sighting",
+      "location_id": "L011",
+      "timestamp": "2026-05-18T08:49:00",
+      "entities": []
+    },
+    {
+      "id": "E008",
+      "type": "EVENT",
+      "description": "CCTV flag",
+      "location_id": "L002",
+      "timestamp": "2026-03-17T13:10:00",
+      "entities": []
+    },
+    {
+      "id": "E009",
+      "type": "EVENT",
+      "description": "Informant tip",
+      "location_id": "L001",
+      "timestamp": "2026-03-09T16:48:00",
+      "entities": []
+    },
+    {
+      "id": "E010",
+      "type": "EVENT",
+      "description": "Border checkpoint log",
+      "location_id": "L009",
+      "timestamp": "2026-01-28T20:19:00",
+      "entities": []
+    },
+    {
+      "id": "E011",
+      "type": "EVENT",
+      "description": "Routine patrol stop",
+      "location_id": "L010",
+      "timestamp": "2026-02-20T04:23:00",
+      "entities": []
+    },
+    {
+      "id": "E012",
+      "type": "EVENT",
+      "description": "Border checkpoint log",
+      "location_id": "L009",
+      "timestamp": "2026-05-16T00:38:00",
+      "entities": []
+    },
+    {
+      "id": "E013",
+      "type": "EVENT",
+      "description": "CCTV flag",
+      "location_id": "L008",
+      "timestamp": "2026-01-05T03:59:00",
+      "entities": []
+    },
+    {
+      "id": "E014",
+      "type": "EVENT",
+      "description": "CCTV flag",
+      "location_id": "L015",
+      "timestamp": "2026-03-20T07:03:00",
+      "entities": []
+    },
+    {
+      "id": "E015",
+      "type": "EVENT",
+      "description": "Border checkpoint log",
+      "location_id": "L015",
+      "timestamp": "2026-05-26T02:05:00",
+      "entities": []
+    },
+    {
+      "id": "E016",
+      "type": "EVENT",
+      "description": "Informant tip",
+      "location_id": "L014",
+      "timestamp": "2026-01-18T17:49:00",
+      "entities": []
+    },
+    {
+      "id": "E017",
+      "type": "EVENT",
+      "description": "Border checkpoint log",
+      "location_id": "L003",
+      "timestamp": "2026-05-02T17:10:00",
+      "entities": []
+    },
+    {
+      "id": "E018",
+      "type": "EVENT",
+      "description": "CCTV flag",
+      "location_id": "L009",
+      "timestamp": "2026-04-19T06:59:00",
+      "entities": []
+    },
+    {
+      "id": "E019",
+      "type": "EVENT",
+      "description": "Routine patrol stop",
+      "location_id": "L013",
+      "timestamp": "2026-02-21T22:19:00",
+      "entities": []
+    },
+    {
+      "id": "E020",
+      "type": "EVENT",
+      "description": "Informant tip",
+      "location_id": "L011",
+      "timestamp": "2026-04-06T14:57:00",
+      "entities": []
+    },
+    {
+      "id": "E900",
+      "type": "EVENT",
+      "description": "CCTV flag",
+      "location_id": "L008",
+      "timestamp": "2026-03-01T19:40:00",
+      "entities": [
+        "P003"
+      ]
+    },
+    {
+      "id": "E901",
+      "type": "EVENT",
+      "description": "Surveillance sighting",
+      "location_id": "L008",
+      "timestamp": "2026-03-03T19:55:00",
+      "entities": [
+        "P003"
+      ]
+    },
+    {
+      "id": "E902",
+      "type": "EVENT",
+      "description": "Surveillance sighting",
+      "location_id": "L008",
+      "timestamp": "2026-03-04T20:10:00",
+      "entities": [
+        "P006"
+      ]
+    },
+    {
+      "id": "E903",
+      "type": "EVENT",
+      "description": "Routine patrol stop",
+      "location_id": "L008",
+      "timestamp": "2026-03-08T18:50:00",
+      "entities": [
+        "P006"
+      ]
+    },
+    {
+      "id": "E904",
+      "type": "EVENT",
+      "description": "CCTV flag",
+      "location_id": "L010",
+      "timestamp": "2026-02-20T08:00:00",
+      "entities": [
+        "P015",
+        "P022"
+      ],
+      "note": "Both entities recorded near vehicle TN23-FY-1004"
+    },
+    {
+      "id": "E905",
+      "type": "EVENT",
+      "description": "Surveillance sighting",
+      "location_id": "L001",
+      "timestamp": "2026-03-20T20:30:00",
+      "entities": [
+        "P002"
+      ],
+      "note": "Sighting: Chennai"
+    },
+    {
+      "id": "E906",
+      "type": "EVENT",
+      "description": "Informant tip",
+      "location_id": "L002",
+      "timestamp": "2026-03-20T20:45:00",
+      "entities": [
+        "P002"
+      ],
+      "note": "Sighting: Bengaluru"
+    }
+  ],
+  "communications": [
+    {
+      "id": "CDR001",
+      "type": "COMMUNICATION",
+      "from_phone": "PH005",
+      "to_phone": "PH011",
+      "mode": "CALL",
+      "duration_sec": 290,
+      "timestamp": "2026-05-05T06:34:00"
+    },
+    {
+      "id": "CDR002",
+      "type": "COMMUNICATION",
+      "from_phone": "PH003",
+      "to_phone": "PH019",
+      "mode": "CALL",
+      "duration_sec": 808,
+      "timestamp": "2026-05-02T13:12:00"
+    },
+    {
+      "id": "CDR003",
+      "type": "COMMUNICATION",
+      "from_phone": "PH011",
+      "to_phone": "PH007",
+      "mode": "SMS",
+      "duration_sec": 367,
+      "timestamp": "2026-04-19T13:29:00"
+    },
+    {
+      "id": "CDR004",
+      "type": "COMMUNICATION",
+      "from_phone": "PH011",
+      "to_phone": "PH007",
+      "mode": "CALL",
+      "duration_sec": 417,
+      "timestamp": "2026-03-28T03:15:00"
+    },
+    {
+      "id": "CDR005",
+      "type": "COMMUNICATION",
+      "from_phone": "PH003",
+      "to_phone": "PH007",
+      "mode": "SMS",
+      "duration_sec": 148,
+      "timestamp": "2026-04-19T05:17:00"
+    },
+    {
+      "id": "CDR006",
+      "type": "COMMUNICATION",
+      "from_phone": "PH019",
+      "to_phone": "PH003",
+      "mode": "CALL",
+      "duration_sec": 458,
+      "timestamp": "2026-05-21T03:03:00"
+    },
+    {
+      "id": "CDR007",
+      "type": "COMMUNICATION",
+      "from_phone": "PH007",
+      "to_phone": "PH011",
+      "mode": "CALL",
+      "duration_sec": 776,
+      "timestamp": "2026-03-02T05:26:00"
+    },
+    {
+      "id": "CDR008",
+      "type": "COMMUNICATION",
+      "from_phone": "PH019",
+      "to_phone": "PH007",
+      "mode": "CALL",
+      "duration_sec": 890,
+      "timestamp": "2026-04-13T01:10:00"
+    },
+    {
+      "id": "CDR009",
+      "type": "COMMUNICATION",
+      "from_phone": "PH019",
+      "to_phone": "PH011",
+      "mode": "SMS",
+      "duration_sec": 276,
+      "timestamp": "2026-04-27T09:27:00"
+    },
+    {
+      "id": "CDR010",
+      "type": "COMMUNICATION",
+      "from_phone": "PH007",
+      "to_phone": "PH019",
+      "mode": "CALL",
+      "duration_sec": 199,
+      "timestamp": "2026-03-17T06:03:00"
+    },
+    {
+      "id": "CDR011",
+      "type": "COMMUNICATION",
+      "from_phone": "PH007",
+      "to_phone": "PH011",
+      "mode": "SMS",
+      "duration_sec": 63,
+      "timestamp": "2026-01-13T18:30:00"
+    },
+    {
+      "id": "CDR012",
+      "type": "COMMUNICATION",
+      "from_phone": "PH007",
+      "to_phone": "PH003",
+      "mode": "CALL",
+      "duration_sec": 525,
+      "timestamp": "2026-01-21T05:04:00"
+    },
+    {
+      "id": "CDR013",
+      "type": "COMMUNICATION",
+      "from_phone": "PH007",
+      "to_phone": "PH011",
+      "mode": "CALL",
+      "duration_sec": 418,
+      "timestamp": "2026-01-31T18:15:00"
+    },
+    {
+      "id": "CDR014",
+      "type": "COMMUNICATION",
+      "from_phone": "PH007",
+      "to_phone": "PH011",
+      "mode": "CALL",
+      "duration_sec": 434,
+      "timestamp": "2026-05-30T18:33:00"
+    },
+    {
+      "id": "CDR015",
+      "type": "COMMUNICATION",
+      "from_phone": "PH013",
+      "to_phone": "PH018",
+      "mode": "CALL",
+      "duration_sec": 690,
+      "timestamp": "2026-03-22T07:16:00"
+    },
+    {
+      "id": "CDR016",
+      "type": "COMMUNICATION",
+      "from_phone": "PH012",
+      "to_phone": "PH016",
+      "mode": "SMS",
+      "duration_sec": 473,
+      "timestamp": "2026-03-22T02:00:00"
+    },
+    {
+      "id": "CDR017",
+      "type": "COMMUNICATION",
+      "from_phone": "PH012",
+      "to_phone": "PH014",
+      "mode": "CALL",
+      "duration_sec": 555,
+      "timestamp": "2026-02-24T16:16:00"
+    },
+    {
+      "id": "CDR018",
+      "type": "COMMUNICATION",
+      "from_phone": "PH016",
+      "to_phone": "PH013",
+      "mode": "CALL",
+      "duration_sec": 255,
+      "timestamp": "2026-04-05T09:10:00"
+    },
+    {
+      "id": "CDR019",
+      "type": "COMMUNICATION",
+      "from_phone": "PH012",
+      "to_phone": "PH013",
+      "mode": "CALL",
+      "duration_sec": 688,
+      "timestamp": "2026-05-22T09:59:00"
+    },
+    {
+      "id": "CDR020",
+      "type": "COMMUNICATION",
+      "from_phone": "PH014",
+      "to_phone": "PH016",
+      "mode": "SMS",
+      "duration_sec": 123,
+      "timestamp": "2026-01-28T23:35:00"
+    },
+    {
+      "id": "CDR021",
+      "type": "COMMUNICATION",
+      "from_phone": "PH016",
+      "to_phone": "PH013",
+      "mode": "SMS",
+      "duration_sec": 624,
+      "timestamp": "2026-02-23T22:21:00"
+    },
+    {
+      "id": "CDR022",
+      "type": "COMMUNICATION",
+      "from_phone": "PH016",
+      "to_phone": "PH013",
+      "mode": "SMS",
+      "duration_sec": 262,
+      "timestamp": "2026-01-14T02:40:00"
+    },
+    {
+      "id": "CDR023",
+      "type": "COMMUNICATION",
+      "from_phone": "PH012",
+      "to_phone": "PH013",
+      "mode": "CALL",
+      "duration_sec": 8,
+      "timestamp": "2026-03-27T04:40:00"
+    },
+    {
+      "id": "CDR024",
+      "type": "COMMUNICATION",
+      "from_phone": "PH013",
+      "to_phone": "PH016",
+      "mode": "SMS",
+      "duration_sec": 569,
+      "timestamp": "2026-04-20T17:00:00"
+    },
+    {
+      "id": "CDR025",
+      "type": "COMMUNICATION",
+      "from_phone": "PH014",
+      "to_phone": "PH018",
+      "mode": "CALL",
+      "duration_sec": 563,
+      "timestamp": "2026-01-10T11:37:00"
+    },
+    {
+      "id": "CDR026",
+      "type": "COMMUNICATION",
+      "from_phone": "PH018",
+      "to_phone": "PH016",
+      "mode": "SMS",
+      "duration_sec": 135,
+      "timestamp": "2026-01-11T09:23:00"
+    },
+    {
+      "id": "CDR027",
+      "type": "COMMUNICATION",
+      "from_phone": "PH014",
+      "to_phone": "PH013",
+      "mode": "CALL",
+      "duration_sec": 703,
+      "timestamp": "2026-03-05T21:06:00"
+    },
+    {
+      "id": "CDR028",
+      "type": "COMMUNICATION",
+      "from_phone": "PH013",
+      "to_phone": "PH012",
+      "mode": "CALL",
+      "duration_sec": 247,
+      "timestamp": "2026-02-11T05:56:00"
+    },
+    {
+      "id": "CDR029",
+      "type": "COMMUNICATION",
+      "from_phone": "PH006",
+      "to_phone": "PH009",
+      "mode": "CALL",
+      "duration_sec": 759,
+      "timestamp": "2026-03-27T13:51:00"
+    },
+    {
+      "id": "CDR030",
+      "type": "COMMUNICATION",
+      "from_phone": "PH010",
+      "to_phone": "PH001",
+      "mode": "CALL",
+      "duration_sec": 811,
+      "timestamp": "2026-01-28T12:55:00"
+    },
+    {
+      "id": "CDR031",
+      "type": "COMMUNICATION",
+      "from_phone": "PH009",
+      "to_phone": "PH006",
+      "mode": "CALL",
+      "duration_sec": 209,
+      "timestamp": "2026-04-28T11:19:00"
+    },
+    {
+      "id": "CDR032",
+      "type": "COMMUNICATION",
+      "from_phone": "PH010",
+      "to_phone": "PH002",
+      "mode": "CALL",
+      "duration_sec": 680,
+      "timestamp": "2026-02-19T12:21:00"
+    },
+    {
+      "id": "CDR033",
+      "type": "COMMUNICATION",
+      "from_phone": "PH001",
+      "to_phone": "PH009",
+      "mode": "SMS",
+      "duration_sec": 364,
+      "timestamp": "2026-05-11T12:43:00"
+    },
+    {
+      "id": "CDR034",
+      "type": "COMMUNICATION",
+      "from_phone": "PH002",
+      "to_phone": "PH001",
+      "mode": "CALL",
+      "duration_sec": 123,
+      "timestamp": "2026-03-08T05:37:00"
+    },
+    {
+      "id": "CDR035",
+      "type": "COMMUNICATION",
+      "from_phone": "PH001",
+      "to_phone": "PH009",
+      "mode": "CALL",
+      "duration_sec": 615,
+      "timestamp": "2026-04-22T11:46:00"
+    },
+    {
+      "id": "CDR036",
+      "type": "COMMUNICATION",
+      "from_phone": "PH001",
+      "to_phone": "PH006",
+      "mode": "CALL",
+      "duration_sec": 399,
+      "timestamp": "2026-05-28T06:16:00"
+    },
+    {
+      "id": "CDR037",
+      "type": "COMMUNICATION",
+      "from_phone": "PH009",
+      "to_phone": "PH006",
+      "mode": "CALL",
+      "duration_sec": 537,
+      "timestamp": "2026-05-18T21:46:00"
+    },
+    {
+      "id": "CDR038",
+      "type": "COMMUNICATION",
+      "from_phone": "PH010",
+      "to_phone": "PH001",
+      "mode": "SMS",
+      "duration_sec": 76,
+      "timestamp": "2026-03-26T19:20:00"
+    },
+    {
+      "id": "CDR039",
+      "type": "COMMUNICATION",
+      "from_phone": "PH009",
+      "to_phone": "PH001",
+      "mode": "SMS",
+      "duration_sec": 687,
+      "timestamp": "2026-04-15T10:25:00"
+    },
+    {
+      "id": "CDR040",
+      "type": "COMMUNICATION",
+      "from_phone": "PH001",
+      "to_phone": "PH010",
+      "mode": "CALL",
+      "duration_sec": 435,
+      "timestamp": "2026-04-08T21:47:00"
+    },
+    {
+      "id": "CDR041",
+      "type": "COMMUNICATION",
+      "from_phone": "PH010",
+      "to_phone": "PH001",
+      "mode": "SMS",
+      "duration_sec": 566,
+      "timestamp": "2026-01-01T09:18:00"
+    },
+    {
+      "id": "CDR042",
+      "type": "COMMUNICATION",
+      "from_phone": "PH010",
+      "to_phone": "PH006",
+      "mode": "SMS",
+      "duration_sec": 481,
+      "timestamp": "2026-04-24T14:43:00"
+    },
+    {
+      "id": "CDR043",
+      "type": "COMMUNICATION",
+      "from_phone": "PH008",
+      "to_phone": "PH015",
+      "mode": "CALL",
+      "duration_sec": 679,
+      "timestamp": "2026-01-22T09:32:00"
+    },
+    {
+      "id": "CDR044",
+      "type": "COMMUNICATION",
+      "from_phone": "PH017",
+      "to_phone": "PH004",
+      "mode": "CALL",
+      "duration_sec": 843,
+      "timestamp": "2026-03-02T21:19:00"
+    },
+    {
+      "id": "CDR045",
+      "type": "COMMUNICATION",
+      "from_phone": "PH008",
+      "to_phone": "PH017",
+      "mode": "CALL",
+      "duration_sec": 30,
+      "timestamp": "2026-01-12T07:30:00"
+    },
+    {
+      "id": "CDR046",
+      "type": "COMMUNICATION",
+      "from_phone": "PH017",
+      "to_phone": "PH020",
+      "mode": "SMS",
+      "duration_sec": 429,
+      "timestamp": "2026-05-28T06:45:00"
+    },
+    {
+      "id": "CDR047",
+      "type": "COMMUNICATION",
+      "from_phone": "PH015",
+      "to_phone": "PH017",
+      "mode": "SMS",
+      "duration_sec": 254,
+      "timestamp": "2026-02-07T20:44:00"
+    },
+    {
+      "id": "CDR048",
+      "type": "COMMUNICATION",
+      "from_phone": "PH020",
+      "to_phone": "PH017",
+      "mode": "SMS",
+      "duration_sec": 229,
+      "timestamp": "2026-02-15T22:33:00"
+    },
+    {
+      "id": "CDR049",
+      "type": "COMMUNICATION",
+      "from_phone": "PH015",
+      "to_phone": "PH020",
+      "mode": "CALL",
+      "duration_sec": 873,
+      "timestamp": "2026-02-01T14:08:00"
+    },
+    {
+      "id": "CDR050",
+      "type": "COMMUNICATION",
+      "from_phone": "PH015",
+      "to_phone": "PH004",
+      "mode": "SMS",
+      "duration_sec": 632,
+      "timestamp": "2026-05-10T13:53:00"
+    },
+    {
+      "id": "CDR051",
+      "type": "COMMUNICATION",
+      "from_phone": "PH017",
+      "to_phone": "PH015",
+      "mode": "CALL",
+      "duration_sec": 766,
+      "timestamp": "2026-05-02T14:16:00"
+    },
+    {
+      "id": "CDR052",
+      "type": "COMMUNICATION",
+      "from_phone": "PH008",
+      "to_phone": "PH004",
+      "mode": "SMS",
+      "duration_sec": 646,
+      "timestamp": "2026-03-03T08:28:00"
+    },
+    {
+      "id": "CDR053",
+      "type": "COMMUNICATION",
+      "from_phone": "PH020",
+      "to_phone": "PH004",
+      "mode": "CALL",
+      "duration_sec": 283,
+      "timestamp": "2026-03-27T10:57:00"
+    },
+    {
+      "id": "CDR054",
+      "type": "COMMUNICATION",
+      "from_phone": "PH017",
+      "to_phone": "PH020",
+      "mode": "CALL",
+      "duration_sec": 159,
+      "timestamp": "2026-03-01T12:44:00"
+    },
+    {
+      "id": "CDR055",
+      "type": "COMMUNICATION",
+      "from_phone": "PH008",
+      "to_phone": "PH017",
+      "mode": "CALL",
+      "duration_sec": 429,
+      "timestamp": "2026-04-15T10:34:00"
+    },
+    {
+      "id": "CDR056",
+      "type": "COMMUNICATION",
+      "from_phone": "PH015",
+      "to_phone": "PH017",
+      "mode": "CALL",
+      "duration_sec": 216,
+      "timestamp": "2026-04-18T12:57:00"
+    },
+    {
+      "id": "CDR057",
+      "type": "COMMUNICATION",
+      "from_phone": "PH019",
+      "to_phone": "PH006",
+      "mode": "CALL",
+      "duration_sec": 365,
+      "timestamp": "2026-03-18T12:54:00"
+    },
+    {
+      "id": "CDR058",
+      "type": "COMMUNICATION",
+      "from_phone": "PH017",
+      "to_phone": "PH002",
+      "mode": "CALL",
+      "duration_sec": 504,
+      "timestamp": "2026-02-26T08:27:00"
+    },
+    {
+      "id": "CDR059",
+      "type": "COMMUNICATION",
+      "from_phone": "PH015",
+      "to_phone": "PH005",
+      "mode": "SMS",
+      "duration_sec": 746,
+      "timestamp": "2026-02-12T14:58:00"
+    },
+    {
+      "id": "CDR060",
+      "type": "COMMUNICATION",
+      "from_phone": "PH018",
+      "to_phone": "PH009",
+      "mode": "SMS",
+      "duration_sec": 611,
+      "timestamp": "2026-05-25T21:01:00"
+    },
+    {
+      "id": "CDR061",
+      "type": "COMMUNICATION",
+      "from_phone": "PH019",
+      "to_phone": "PH010",
+      "mode": "SMS",
+      "duration_sec": 191,
+      "timestamp": "2026-01-13T08:24:00"
+    },
+    {
+      "id": "CDR062",
+      "type": "COMMUNICATION",
+      "from_phone": "PH006",
+      "to_phone": "PH005",
+      "mode": "SMS",
+      "duration_sec": 784,
+      "timestamp": "2026-04-08T08:48:00"
+    },
+    {
+      "id": "CDR900",
+      "type": "COMMUNICATION",
+      "from_phone": "PH001",
+      "to_phone": "PH002",
+      "mode": "CALL",
+      "duration_sec": 340,
+      "timestamp": "2026-02-10T21:15:00"
+    },
+    {
+      "id": "CDR901",
+      "type": "COMMUNICATION",
+      "from_phone": "PH001",
+      "to_phone": "PH002",
+      "mode": "CALL",
+      "duration_sec": 512,
+      "timestamp": "2026-02-14T20:55:00"
+    },
+    {
+      "id": "CDR902",
+      "type": "COMMUNICATION",
+      "from_phone": "PH003",
+      "to_phone": "PH011",
+      "mode": "CALL",
+      "duration_sec": 220,
+      "timestamp": "2026-03-14T10:00:00"
+    },
+    {
+      "id": "CDR903",
+      "type": "COMMUNICATION",
+      "from_phone": "PH003",
+      "to_phone": "PH016",
+      "mode": "CALL",
+      "duration_sec": 180,
+      "timestamp": "2026-03-14T10:20:00"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "TXN001",
+      "type": "TRANSACTION",
+      "from_account": "AC006",
+      "to_account": "AC004",
+      "amount": 22000,
+      "timestamp": "2026-02-09T07:08:00"
+    },
+    {
+      "id": "TXN002",
+      "type": "TRANSACTION",
+      "from_account": "AC015",
+      "to_account": "AC006",
+      "amount": 22000,
+      "timestamp": "2026-02-25T14:44:00"
+    },
+    {
+      "id": "TXN003",
+      "type": "TRANSACTION",
+      "from_account": "AC015",
+      "to_account": "AC004",
+      "amount": 4800,
+      "timestamp": "2026-01-30T05:19:00"
+    },
+    {
+      "id": "TXN004",
+      "type": "TRANSACTION",
+      "from_account": "AC006",
+      "to_account": "AC004",
+      "amount": 9999,
+      "timestamp": "2026-05-28T21:58:00"
+    },
+    {
+      "id": "TXN005",
+      "type": "TRANSACTION",
+      "from_account": "AC015",
+      "to_account": "AC004",
+      "amount": 45000,
+      "timestamp": "2026-02-20T02:37:00"
+    },
+    {
+      "id": "TXN006",
+      "type": "TRANSACTION",
+      "from_account": "AC004",
+      "to_account": "AC006",
+      "amount": 2500,
+      "timestamp": "2026-03-19T21:38:00"
+    },
+    {
+      "id": "TXN007",
+      "type": "TRANSACTION",
+      "from_account": "AC013",
+      "to_account": "AC012",
+      "amount": 9999,
+      "timestamp": "2026-05-17T13:42:00"
+    },
+    {
+      "id": "TXN008",
+      "type": "TRANSACTION",
+      "from_account": "AC011",
+      "to_account": "AC013",
+      "amount": 22000,
+      "timestamp": "2026-03-29T00:54:00"
+    },
+    {
+      "id": "TXN009",
+      "type": "TRANSACTION",
+      "from_account": "AC011",
+      "to_account": "AC012",
+      "amount": 2500,
+      "timestamp": "2026-04-21T11:40:00"
+    },
+    {
+      "id": "TXN010",
+      "type": "TRANSACTION",
+      "from_account": "AC011",
+      "to_account": "AC013",
+      "amount": 15000,
+      "timestamp": "2026-02-15T23:33:00"
+    },
+    {
+      "id": "TXN011",
+      "type": "TRANSACTION",
+      "from_account": "AC012",
+      "to_account": "AC011",
+      "amount": 22000,
+      "timestamp": "2026-05-18T15:29:00"
+    },
+    {
+      "id": "TXN012",
+      "type": "TRANSACTION",
+      "from_account": "AC011",
+      "to_account": "AC012",
+      "amount": 9999,
+      "timestamp": "2026-03-04T02:17:00"
+    },
+    {
+      "id": "TXN013",
+      "type": "TRANSACTION",
+      "from_account": "AC010",
+      "to_account": "AC003",
+      "amount": 88000,
+      "timestamp": "2026-04-29T18:39:00"
+    },
+    {
+      "id": "TXN014",
+      "type": "TRANSACTION",
+      "from_account": "AC009",
+      "to_account": "AC010",
+      "amount": 9999,
+      "timestamp": "2026-01-08T15:54:00"
+    },
+    {
+      "id": "TXN015",
+      "type": "TRANSACTION",
+      "from_account": "AC010",
+      "to_account": "AC003",
+      "amount": 15000,
+      "timestamp": "2026-02-24T11:51:00"
+    },
+    {
+      "id": "TXN016",
+      "type": "TRANSACTION",
+      "from_account": "AC010",
+      "to_account": "AC009",
+      "amount": 9999,
+      "timestamp": "2026-03-12T17:00:00"
+    },
+    {
+      "id": "TXN017",
+      "type": "TRANSACTION",
+      "from_account": "AC009",
+      "to_account": "AC003",
+      "amount": 2500,
+      "timestamp": "2026-03-03T23:26:00"
+    },
+    {
+      "id": "TXN018",
+      "type": "TRANSACTION",
+      "from_account": "AC010",
+      "to_account": "AC003",
+      "amount": 45000,
+      "timestamp": "2026-05-02T20:45:00"
+    },
+    {
+      "id": "TXN019",
+      "type": "TRANSACTION",
+      "from_account": "AC008",
+      "to_account": "AC002",
+      "amount": 88000,
+      "timestamp": "2026-01-05T02:18:00"
+    },
+    {
+      "id": "TXN020",
+      "type": "TRANSACTION",
+      "from_account": "AC001",
+      "to_account": "AC008",
+      "amount": 45000,
+      "timestamp": "2026-03-04T09:42:00"
+    },
+    {
+      "id": "TXN021",
+      "type": "TRANSACTION",
+      "from_account": "AC002",
+      "to_account": "AC008",
+      "amount": 15000,
+      "timestamp": "2026-05-22T16:22:00"
+    },
+    {
+      "id": "TXN022",
+      "type": "TRANSACTION",
+      "from_account": "AC008",
+      "to_account": "AC002",
+      "amount": 9999,
+      "timestamp": "2026-04-27T08:19:00"
+    },
+    {
+      "id": "TXN023",
+      "type": "TRANSACTION",
+      "from_account": "AC008",
+      "to_account": "AC001",
+      "amount": 2500,
+      "timestamp": "2026-02-19T10:07:00"
+    },
+    {
+      "id": "TXN024",
+      "type": "TRANSACTION",
+      "from_account": "AC002",
+      "to_account": "AC001",
+      "amount": 4800,
+      "timestamp": "2026-02-25T23:30:00"
+    },
+    {
+      "id": "TXN025",
+      "type": "TRANSACTION",
+      "from_account": "AC007",
+      "to_account": "AC014",
+      "amount": 2500,
+      "timestamp": "2026-02-19T09:14:00"
+    },
+    {
+      "id": "TXN026",
+      "type": "TRANSACTION",
+      "from_account": "AC007",
+      "to_account": "AC005",
+      "amount": 9999,
+      "timestamp": "2026-01-04T22:34:00"
+    },
+    {
+      "id": "TXN027",
+      "type": "TRANSACTION",
+      "from_account": "AC005",
+      "to_account": "AC007",
+      "amount": 2500,
+      "timestamp": "2026-01-14T17:18:00"
+    },
+    {
+      "id": "TXN028",
+      "type": "TRANSACTION",
+      "from_account": "AC014",
+      "to_account": "AC005",
+      "amount": 45000,
+      "timestamp": "2026-05-06T03:55:00"
+    },
+    {
+      "id": "TXN029",
+      "type": "TRANSACTION",
+      "from_account": "AC005",
+      "to_account": "AC007",
+      "amount": 15000,
+      "timestamp": "2026-05-03T14:21:00"
+    },
+    {
+      "id": "TXN030",
+      "type": "TRANSACTION",
+      "from_account": "AC005",
+      "to_account": "AC014",
+      "amount": 9999,
+      "timestamp": "2026-05-03T03:52:00"
+    },
+    {
+      "id": "TXN031",
+      "type": "TRANSACTION",
+      "from_account": "AC015",
+      "to_account": "AC001",
+      "amount": 2500,
+      "timestamp": "2026-02-08T04:51:00"
+    },
+    {
+      "id": "TXN032",
+      "type": "TRANSACTION",
+      "from_account": "AC005",
+      "to_account": "AC003",
+      "amount": 4800,
+      "timestamp": "2026-05-23T13:38:00"
+    },
+    {
+      "id": "TXN033",
+      "type": "TRANSACTION",
+      "from_account": "AC014",
+      "to_account": "AC011",
+      "amount": 150000,
+      "timestamp": "2026-04-24T09:55:00"
+    },
+    {
+      "id": "TXN034",
+      "type": "TRANSACTION",
+      "from_account": "AC007",
+      "to_account": "AC002",
+      "amount": 2500,
+      "timestamp": "2026-01-26T06:40:00"
+    },
+    {
+      "id": "TXN900",
+      "type": "TRANSACTION",
+      "from_account": "AC002",
+      "to_account": "AC003",
+      "amount": 65000,
+      "timestamp": "2026-02-16T11:00:00"
+    },
+    {
+      "id": "TXN901",
+      "type": "TRANSACTION",
+      "from_account": "AC003",
+      "to_account": "AC004",
+      "amount": 40000,
+      "timestamp": "2026-03-02T09:30:00"
+    },
+    {
+      "id": "TXN902",
+      "type": "TRANSACTION",
+      "from_account": "AC004",
+      "to_account": "AC006",
+      "amount": 38500,
+      "timestamp": "2026-03-05T09:45:00"
+    }
+  ],
+  "reports": [
+    {
+      "id": "FIR-001",
+      "type": "REPORT",
+      "category": "CDR",
+      "title": "Suspicious financial transfer reported",
+      "date": "2026-03-09T21:05:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": [
+        "P001",
+        "PH001"
+      ]
+    },
+    {
+      "id": "FIR-002",
+      "type": "REPORT",
+      "category": "CDR",
+      "title": "Unidentified vehicle near checkpoint",
+      "date": "2026-03-03T05:35:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": [
+        "P002",
+        "PH002"
+      ]
+    },
+    {
+      "id": "FIR-003",
+      "type": "REPORT",
+      "category": "FIR",
+      "title": "Informant tip on courier network",
+      "date": "2026-02-10T00:26:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-004",
+      "type": "REPORT",
+      "category": "Surveillance Report",
+      "title": "CDR analysis request",
+      "date": "2026-05-01T09:02:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-005",
+      "type": "REPORT",
+      "category": "CDR",
+      "title": "Surveillance follow-up report",
+      "date": "2026-03-15T22:18:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-006",
+      "type": "REPORT",
+      "category": "Intelligence Report",
+      "title": "Cyber-tip: coordinated messaging pattern",
+      "date": "2026-04-27T02:43:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-007",
+      "type": "REPORT",
+      "category": "CDR",
+      "title": "Cross-border logistics inquiry",
+      "date": "2026-03-09T20:37:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-008",
+      "type": "REPORT",
+      "category": "Intelligence Report",
+      "title": "Anonymous complaint regarding shell accounts",
+      "date": "2026-02-20T13:07:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-009",
+      "type": "REPORT",
+      "category": "Case History",
+      "title": "Repeat sighting at Sector-8",
+      "date": "2026-02-27T20:09:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-010",
+      "type": "REPORT",
+      "category": "Financial Transactions",
+      "title": "Vehicle plate match flagged",
+      "date": "2026-02-06T02:03:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-011",
+      "type": "REPORT",
+      "category": "CDR",
+      "title": "Financial anomaly - structuring pattern",
+      "date": "2026-03-20T19:47:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-012",
+      "type": "REPORT",
+      "category": "Vehicle Records",
+      "title": "Digital footprint correlation report",
+      "date": "2026-05-26T09:28:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-013",
+      "type": "REPORT",
+      "category": "FIR",
+      "title": "Community liaison report",
+      "date": "2026-04-30T22:19:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    },
+    {
+      "id": "FIR-014",
+      "type": "REPORT",
+      "category": "Intelligence Report",
+      "title": "Border security log excerpt",
+      "date": "2026-04-14T08:32:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": [
+        "P003",
+        "P006",
+        "L008"
+      ]
+    },
+    {
+      "id": "FIR-015",
+      "type": "REPORT",
+      "category": "Case History",
+      "title": "Case review - Operation Silent Web",
+      "date": "2026-05-07T14:05:00",
+      "summary": "Synthetic demo report referencing entities and events for investigative training purposes.",
+      "linked_entities": []
+    }
+  ],
+  "scenario_key_entities": {
+    "A_arjun_mehta": "P001",
+    "B_sanjay_iyer": "P002",
+    "C_priya_chatterjee_bridge": "P003",
+    "D_vikram_rao": "P006",
+    "F_rohan_bose_emerges_on_removal": "P007",
+    "duplicate_pair": [
+      "P010",
+      "P031",
+      "P032"
+    ],
+    "contradiction_entity": "P002",
+    "bridge_location": "L008"
+  },
+  "cases": [
+    {
+      "id": "NX-2026-041",
+      "title": "Operation Silent Web",
+      "status": "ACTIVE",
+      "priority": "CRITICAL",
+      "created": "2026-01-05",
+      "assigned_investigator": "Insp. A. Fernandes",
+      "description": "Multi-entity financial-communication network under investigation for suspected coordinated illicit activity. Synthetic demo case.",
+      "risk_level": "HIGH"
+    },
+    {
+      "id": "NX-2026-052",
+      "title": "Project Nightfall",
+      "status": "ACTIVE",
+      "priority": "MEDIUM",
+      "created": "2026-02-11",
+      "assigned_investigator": "Insp. R. Nataraj",
+      "description": "Logistics-linked network showing anomalous cross-city movement patterns. Synthetic demo case.",
+      "risk_level": "MEDIUM"
+    },
+    {
+      "id": "NX-2026-063",
+      "title": "Operation Crosslink",
+      "status": "UNDER_REVIEW",
+      "priority": "LOW",
+      "created": "2026-03-02",
+      "assigned_investigator": "Insp. K. Suresh",
+      "description": "Early-stage intelligence review of a small regional cluster. Synthetic demo case.",
+      "risk_level": "LOW"
+    }
+  ]
+}
