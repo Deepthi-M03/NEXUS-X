@@ -161,6 +161,7 @@ python -m http.server 5173
 
 Then open **http://localhost:5173** in your browser. The backend API and
 interactive OpenAPI docs are at **http://localhost:8000/docs**.
+open with **https://nexus-x-jo24.onrender.com**
 
 ### Docker
 ```bash
